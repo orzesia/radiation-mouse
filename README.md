@@ -1,8 +1,6 @@
-# radiation-mouse
+# RNA-Seq Analysis of Radiation Effects in A20 Lymphoma Mouse Model
 
-**RNA-Seq Analysis of Radiation Effects in A20 Lymphoma Mouse Model**
-
-This project was completed as part of the *Data Mining Modeling Biostatistics* course at Humber Polytechnic using R. It explores the transcriptional response to radiation exposure in a murine lymphoma model using RNA-seq count data.
+This project was completed as part of the *Data Mining Modeling Biostatistics* course at Humber Polytechnic using R. January - April 2025. It explores the transcriptional response to radiation exposure in a murine lymphoma model using RNA-seq count data.
 
 ## Summary
 
